@@ -38,11 +38,8 @@ A fully functional **e-commerce web application** built using the **MERN stack**
 - **Database:** MongoDB (Atlas or local)  
 - **Authentication:** JWT (JSON Web Tokens)  
 - **API Testing:** Postman  
-- **Deployment:** Vercel / Heroku / AWS (optional)  
+- **Deployment:** Vercel  
 
 ---
 
-## Screenshots
-
-> Replace these links with your actual screenshots
 
