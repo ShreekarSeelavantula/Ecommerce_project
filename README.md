@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MERN E-Commerce Website
 
-## Getting Started
+A fully functional **e-commerce web application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project provides a responsive online shopping platform with features like product listing, cart management, user authentication, and order processing.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Screenshots](#screenshots)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Folder Structure](#folder-structure)  
+- [API Endpoints](#api-endpoints)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
 
-## Learn More
+- **User Authentication** – Register, login, and manage accounts.  
+- **Product Catalog** – Browse products by categories.  
+- **Shopping Cart** – Add, remove, or update items in the cart.  
+- **Checkout & Orders** – Place orders and view order history.  
+- **Admin Panel** – Manage products, users, and orders.  
+- **Responsive Design** – Works on desktop, tablet, and mobile.  
+- **Payment Integration** – Supports payment gateway integration.  
+- **Search & Filter** – Search products by name or filter by category and price.  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Frontend:** React.js, Redux, Tailwind CSS / Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Atlas or local)  
+- **Authentication:** JWT (JSON Web Tokens)  
+- **API Testing:** Postman  
+- **Deployment:** Vercel / Heroku / AWS (optional)  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Replace these links with your actual screenshots
+
